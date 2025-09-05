@@ -1,3 +1,5 @@
 /manage.py
 /mysite
 /requeriments.txt
+.venv
+*.pyc
